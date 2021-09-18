@@ -1,0 +1,25 @@
+{
+  "name": "native-music",
+  "version": "1.0.0",
+  "description": "Create music in a browser with native javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebjedhugo/native-music.git"
+  },
+  "keywords": [
+    "music",
+    "webaudio",
+    "web-audio",
+    "sound"
+  ],
+  "author": "Caleb Hugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebjedhugo/native-music/issues"
+  },
+  "homepage": "https://github.com/calebjedhugo/native-music#readme"
+}
